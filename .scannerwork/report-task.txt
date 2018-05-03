@@ -1,0 +1,6 @@
+projectKey=java-sonar-simple
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/java-sonar-simple
+ceTaskId=AWKai0l3VQyBnWo8Co_Y
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWKai0l3VQyBnWo8Co_Y
